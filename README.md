@@ -1,10 +1,12 @@
-# Project Overview: Insurance Claims Performance Dashboard
+# Insurance Claims Performance Dashboard
 
 <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://github.com/user-attachments/assets/7d0ade99-93ab-4d11-9d52-0d4d215afc8f" alt="image1" style="width: 48%;">
     <img src="https://github.com/user-attachments/assets/244b3b55-8e9d-4aae-b198-fdd01d357fa1" alt="image2" style="width: 48%;">
 </div>
 
+
+### Project Overview: 
 This interactive Insurance Claims Performance Dashboard provides a comprehensive analysis of claim data across various regions and states, enabling stakeholders to assess and compare performance on critical metrics such as total claims, average claim amounts, loss ratio, days to settle claims, retention rate, and satisfaction score.
 
 ### Purpose
